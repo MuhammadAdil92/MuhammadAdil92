@@ -1,4 +1,4 @@
-# Hi there, I'm Adil 👋
+![image](https://github.com/user-attachments/assets/1e638bc8-73bf-43b6-a3ff-21ac9e6b4dd6)# Hi there, I'm Adil 👋
 
 I'm a passionate **Full Stack developer** ⚡ with hands-on experience in **JavaScript, Typescript, Python** and its modern frameworks. I enjoy writing clean, efficient code, learning emerging technologies, and collaborating on exciting projects that make a difference.
 
@@ -47,5 +47,11 @@ All projects are developed following **W3C standards** for accessibility, speed,
 
 - 📧 Email: [muhammad_adil195@hotmail.com](mailto:muhammad_adil195@hotmail.comm)
 - 💬 WhatsApp: [+92 312 2557874](https://wa.me/923122557874)
+
+---
+
+## **Hire Me On Upword**
+- [Upwork Profile: ](https://www.upwork.com/freelancers/~016260aaee6cc2d83b?mp_source=share)
+
 
 Let's connect and build something awesome together! 🚀

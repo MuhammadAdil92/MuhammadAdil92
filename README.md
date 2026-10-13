@@ -6,12 +6,12 @@ I'm a passionate **Full Stack developer**  with hands-on experience in **JavaScr
 
 ## Why Work With Me?
 
-✅ **Full-Stack Expertise** – Seamless integration of backend and frontend technologies  
-✅ **On-Time Delivery** – Fast turnarounds without compromising code quality  
-✅ **SEO & Performance Optimized** – Built for speed, ranking, and great UX  
-✅ **Fully Responsive** – Mobile-first development for all device types  
-✅ **Clean & Maintainable Code** – Following best practices & modern standards  
-✅ **100% Client Satisfaction** – I deliver only when you're fully happy!
+ **Full-Stack Expertise** – Seamless integration of backend and frontend technologies  
+ **On-Time Delivery** – Fast turnarounds without compromising code quality  
+ **SEO & Performance Optimized** – Built for speed, ranking, and great UX  
+ **Fully Responsive** – Mobile-first development for all device types  
+ **Clean & Maintainable Code** – Following best practices & modern standards  
+ **100% Client Satisfaction** – I deliver only when you're fully happy!
 
 ---
 

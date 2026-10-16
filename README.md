@@ -40,13 +40,7 @@ Built and delivered **100+ custom web applications** across industries including
 -  Insurance
 
 All projects are developed following **W3C standards** for accessibility, speed, and maintainability.
-
----
-
-##  Contact Me
-
--  Email: [muhammad_adil195@hotmail.com](mailto:muhammad_adil195@hotmail.comm)
--  WhatsApp: [+92 312 2557874](https://wa.me/923122557874)
+tsApp: [+92 312 2557874](https://wa.me/923122557874)
 
 ---
 

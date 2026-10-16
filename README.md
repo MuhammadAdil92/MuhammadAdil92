@@ -40,7 +40,6 @@ Built and delivered **100+ custom web applications** across industries including
 -  Insurance
 
 All projects are developed following **W3C standards** for accessibility, speed, and maintainability.
-tsApp: [+92 312 2557874](https://wa.me/923122557874)
 
 ---
 
